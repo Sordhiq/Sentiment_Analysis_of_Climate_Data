@@ -1,4 +1,4 @@
-# Sentiment_Analysis_of_Climate_Data
+# Sentiment Analysis of Climate Data
 With growing global concerns around the devastating effects of climate change and global warming, this project is aimed at classifying tweeter data inorder to comprehend the sentiment/perception of the sampled audience about climate change. 
 
 The classification script set out with importing necessary python libraries and classes such as pandas, numpy, scikit-learn, re, wordcloud and NLTK, which would be needed during the course of the classification. This was closely followed with loading the train, test and sample datasets and examining the first five rows of the data to have an overview of its nature and contents.
